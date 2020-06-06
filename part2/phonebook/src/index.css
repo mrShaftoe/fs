@@ -1,0 +1,21 @@
+.message {
+  padding: 5px;
+  font-size: 20px;
+  border: 2px solid;
+  border-radius: 5px;
+  background-color: lightgrey;
+  margin-bottom: 10px;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
+
+.message--success {
+  color: darkgreen;
+  border-color: darkgreen;
+}
+
+.message--error {
+  color: crimson;
+  border-color: crimson;
+}
